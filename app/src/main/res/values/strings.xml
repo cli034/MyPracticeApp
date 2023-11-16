@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Practice App</string>
+    <string name="app_bar_title">Trending gifs</string>
+    <string name="gif_detail_title">Gif Detail</string>
+</resources>
